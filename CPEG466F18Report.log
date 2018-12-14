@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.7)  12 DEC 2018 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.7)  13 DEC 2018 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -268,25 +268,34 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip48
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-No file CPEG466F18Report.aux.
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 15.
+
+(./CPEG466F18Report.aux)
 \openout1 = `CPEG466F18Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
@@ -352,16 +361,7 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box31
-(/usr/share/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-)
-Package hyperref Info: Link coloring ON on input line 16.
-
+Package hyperref Info: Link coloring ON on input line 17.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -370,9 +370,11 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count120
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
+
+(./CPEG466F18Report.out) (./CPEG466F18Report.out)
 \@outlinefile=\write3
 \openout3 = `CPEG466F18Report.out'.
 
@@ -383,34 +385,59 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
- [1
+
+
+LaTeX Warning: Citation `parallellaRefManual' on page 1 undefined on input line
+ 41.
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<avgGig.png, id=20, 603.25375pt x 372.39125pt>
+
+LaTeX Warning: Citation `parallellaNFSProblem' on page 2 undefined on input lin
+e 52.
+
+
+LaTeX Warning: Citation `demac_git_repo' on page 2 undefined on input line 57.
+
+[2]
+
+LaTeX Warning: Citation `top500_linpack' on page 3 undefined on input line 61.
+
+<avgGig.png, id=59, 603.25375pt x 372.39125pt>
 File: avgGig.png Graphic file (type png)
 <use avgGig.png>
-Package pdftex.def Info: avgGig.png  used on input line 49.
+Package pdftex.def Info: avgGig.png  used on input line 72.
 (pdftex.def)             Requested size: 469.75502pt x 289.981pt.
- [2
 
- <./avgGig.png>]
-<strongScaling.png, id=29, 604.2575pt x 373.395pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:avgGig' on page 3 undefined on input line 75.
+
+<strongScaling.png, id=61, 604.2575pt x 373.395pt>
 File: strongScaling.png Graphic file (type png)
 <use strongScaling.png>
-Package pdftex.def Info: strongScaling.png  used on input line 57.
+Package pdftex.def Info: strongScaling.png  used on input line 78.
 (pdftex.def)             Requested size: 469.75502pt x 290.27835pt.
- [3
 
- <./strongScaling.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
- [4
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
 
-(./CPEG466F18Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+LaTeX Warning: Reference `fig:strongScale' on page 3 undefined on input line 82
+.
+
+
+LaTeX Warning: Reference `fig:avgGig' on page 3 undefined on input line 82.
+
+[3] [4 <./avgGig.png>]
+No file CPEG466F18Report.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
+[5 <./strongScaling.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+ (./CPEG466F18Report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
 
 
 Package rerunfilecheck Warning: File `CPEG466F18Report.out' has changed.
@@ -418,28 +445,35 @@ Package rerunfilecheck Warning: File `CPEG466F18Report.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `CPEG466F18Report.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  2F6D6CCD6EE7BECFF19D71D7054ADDB2;180.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
+(rerunfilecheck)             Before: 84789CDF8AD7BEA55BD0DAF53FB33A9D;520
+(rerunfilecheck)             After:  9B16303A38111C9BBBF21AD78F18437C;617.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 6298 strings out of 492639
- 90530 string characters out of 6135497
- 192600 words of memory out of 5000000
- 10123 multiletter control sequences out of 15000+600000
- 10234 words of font info for 37 fonts, out of 8000000 for 9000
+ 6332 strings out of 492639
+ 91029 string characters out of 6135497
+ 194801 words of memory out of 5000000
+ 10141 multiletter control sequences out of 15000+600000
+ 10541 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,32p,872b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,32p,872b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CPEG466F18Report.pdf (4 pages, 119786 bytes).
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on CPEG466F18Report.pdf (5 pages, 140749 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
+ 75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
